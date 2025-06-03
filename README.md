@@ -32,7 +32,7 @@ Dieses Repository soll helfen, die Arbeit im Projekt transparent, nachvollziehba
 
 ---
 
-> 📣 Bei Fragen zur Struktur oder bei Unklarheiten zur Nutzung des Repos: Bitte direkt an das Projectcontrolling wenden.
+> 📣 Bei Fragen zur Struktur oder bei Unklarheiten zur Nutzung des Repos: Bitte direkt an das Projectcontrolling (Timothy & Alina) wenden.
 
 
 
